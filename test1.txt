@@ -1,0 +1,11 @@
+Error (119027): Design requires 1029 I/O Input Buffer resources -- too many to fit in 543 available in the selected device or any device in the device family
+
+Error (169281): There are 1029 IO input pads in the design, but only 284 IO input pad locations available on the device.
+
+
+手表一秒钟能走多少秒？
+如果一直吃健胃消食片是会饿死还是会撑死？
+被门夹了的核桃吃了还能补脑嘛？
+毒药过期了是没毒了还是更毒了？
+耗子生病了吃耗子药能治好嘛？
+为什么陨石总是会落到陨石坑里？
